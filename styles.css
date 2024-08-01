@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+.middle {
+    margin: 1px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
